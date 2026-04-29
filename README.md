@@ -20,7 +20,7 @@ I’m a developer focused on building **real-world, scalable systems** — not j
 ## 🛠️ Tech Stack
 
 **Languages**
-- Java, JavaScript
+- Typescript
 
 **Frontend**
 - HTML, CSS, React
