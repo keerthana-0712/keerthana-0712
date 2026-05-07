@@ -10,7 +10,7 @@
 
 I’m a developer focused on building **real-world, scalable systems** — not just projects.
 
-- 🏗️ Building **Maxy** – a product-driven tech ecosystem  
+- 🏗️ Building a product-driven tech ecosystem  
 - 🔥 Creating **FOTHS** – a large-scale platform with real-time systems, AI, and global user interaction  
 - 🧠 Strong interest in **System Design, Backend Engineering, and Product Thinking**  
 - 🎯 Goal: Work at top product-based companies (FAANG-level) and build impactful technology  
