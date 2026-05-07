@@ -23,7 +23,7 @@ I’m a developer focused on building **real-world, scalable systems** — not j
 - Typescript
 
 **Frontend**
-- HTML, CSS, React
+- HTML, CSS, Next.js
 
 **Backend**
 - Node.js (learning scalable architectures)
