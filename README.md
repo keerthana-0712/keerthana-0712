@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center">Hi, I'm Keerthana 👋</h1>
 
 <p align="center">
@@ -93,8 +93,8 @@ I’m a developer focused on building **real-world, scalable systems** — not j
 ---
 
 ⭐️ *“I don’t just build projects. I build systems that scale.”*
---!>
 
+<!--
 # Hi, I'm Keerthana Salla 👋
 <p align="left">
   <img src="https://img.shields.io/badge/Hyderabad%2C%20India-12100E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -191,3 +191,4 @@ I am a software developer focused on architecting **real-world, distributed, and
 - **Interactive Portfolio:** [keerthana-salla-architron.vercel.app](https://keerthana-salla-architron.vercel.app/)
 
 🌟 _“I don’t just build projects. I build systems that scale.”_
+--!>
