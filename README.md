@@ -1,194 +1,377 @@
 
-<h1 align="center">Hi, I'm Keerthana 👋</h1>
+<div align="center">
+
+# Hi 👋, I'm Keerthana Salla
+
+### Software Engineer • Full-Stack Developer • AI Enthusiast • Product Builder
+
+*Design with Purpose. Build with Passion.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full-Stack+Developer;AI+Enthusiast;System+Design+Learner;Open+Source+Contributor;Future+Product+Engineer" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/keerthana-salla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://keerthana-salla-architron.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=keerthana-0712&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a Computer Science student passionate about building software that solves real-world problems.
+
+Rather than creating isolated projects, I enjoy designing scalable products with clean architecture, thoughtful user experiences, and maintainable code.
+
+My interests include:
+
+- ⚙️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Development
+- 🏗️ System Design
+- 📦 Product Engineering
+- 🌍 Open Source
+
+---
+
+# 🚀 Building Right Now
+
+## 🔥 FOTHS
+
+A modular digital ecosystem built around multiple interconnected services.
+
+Currently building and expanding:
+
+- 🤖 AI Assistant (Flame)
+- 💬 Real-time Communication
+- 📧 Internal Mail System
+- 🎓 Learning Platform
+- 🎵 Audio Streaming
+- 🛒 Digital Services
+- 🔐 Authentication & Security
+
+---
+
+# 💻 Tech Stack
+
+## 🐍 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css"/>
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+## 🌱 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,redis,kafka,kubernetes,aws"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔥 FOTHS
+
+A scalable digital ecosystem designed around modular services, AI-powered experiences, and real-time communication.
+
+---
+
+## 📚 GitHub From Scratch
+
+An open-source learning repository helping beginners master Git and GitHub from the fundamentals.
+
+---
+
+## 🧠 System Design
+
+Architecture notes, HLDs, LLDs, scalability concepts, backend engineering resources, and real-world system breakdowns.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-🚀 Building scalable products | 💡 System Design Enthusiast | 🧠 Future Product Engineer
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthana-0712&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-0712&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-0712&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-0712&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## ⚡ About Me
+# 🎯 2026 Goals
 
-I’m a developer focused on building **real-world, scalable systems** — not just projects.
-
-- 🏗️ Building a product-driven tech ecosystem  
-- 🔥 Creating **FOTHS** – a large-scale platform with real-time systems, AI, and global user interaction  
-- 🧠 Strong interest in **System Design, Backend Engineering, and Product Thinking**  
-- 🎯 Goal: Work at top product-based companies (FAANG-level) and build impactful technology  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Typescript
-
-**Frontend**
-- HTML, CSS, Next.js
-
-**Backend**
-- Node.js (learning scalable architectures)
-
-**Core Concepts**
-- Data Structures & Algorithms  
-- System Design  
-- REST APIs  
-- Database Design  
+- 🚀 Build production-ready applications
+- 🏗️ Master System Design
+- 🤖 Build AI-powered products
+- 🌍 Contribute to Open Source
+- 📚 Continuously learn and grow as a Software Engineer
 
 ---
 
-## 🚀 Featured Projects
+# 🤝 Let's Connect
 
-### 🔥 FOTHS Platform (In Progress)
-> A scalable digital ecosystem for real-time interaction, AI assistance, and global connectivity
+<p>
 
-- Real-time communication system  
-- AI Assistant ("Flame")  
-- Modular architecture for multiple services  
-- Focus on scalability & system design  
+💼 <strong>LinkedIn</strong><br/>
+<a href="https://www.linkedin.com/in/keerthana-salla">
+linkedin.com/in/keerthana-salla
+</a>
 
----
+</p>
 
-### 📅 Smart Calendar System
-> Intelligent scheduling system with future AI-based optimization
+<p>
 
-- Conflict detection  
-- Smart event prioritization  
-- Future scope: behavioral learning  
+🌐 <strong>Portfolio</strong><br/>
+<a href="https://keerthana-salla-architron.vercel.app">
+keerthana-salla-architron.vercel.app
+</a>
 
----
-
-### 🧠 System Design Portfolio
-> Collection of architecture designs and scalable system breakdowns
-
-- High-level + low-level design  
-- Real-world system analysis  
-- Backend architecture thinking  
+</p>
 
 ---
 
-## 📊 What I Focus On
+<div align="center">
 
-- Building **scalable backend systems**
-- Writing **clean, structured code**
-- Understanding **how real products work internally**
-- Solving problems with **engineering + product mindset**
+### ⭐ Design with Purpose. Build with Passion.
 
----
+Thanks for visiting my profile! 🚀
 
-## 📈 Current Goals
+</div>
 
-- 🚀 Build 2–3 production-level projects  
-- 🧠 Master Data Structures & Algorithms  
-- ⚙️ Deep dive into System Design  
-- 🌍 Contribute to impactful products  
 
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/keerthana-salla/
-- Portfolio: https://keerthana-salla-architron.vercel.app/
-
----
-
-⭐️ *“I don’t just build projects. I build systems that scale.”*
 
 <!--
-# Hi, I'm Keerthana Salla 👋
-<p align="left">
-  <img src="https://img.shields.io/badge/Hyderabad%2C%20India-12100E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="https://www.linkedin.com/in/keerthana-salla/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://keerthana-salla-architron.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<div align="center">
+
+# Hi 👋, I'm Keerthana Salla
+
+### Software Engineer • AI Engineer • Product Builder • System Design Enthusiast
+
+*Design with Purpose. Build with Passion.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Software;Full-Stack+Developer;AI+Engineer;System+Design+Learner;Open+Source+Enthusiast;Future+Product+Engineer" />
+
+<p>
+<a href="https://www.linkedin.com/in/keerthana-salla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://keerthana-salla-architron.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=keerthana-0712&style=for-the-badge"/>
+
 </p>
 
-> 🚀 **Building Scalable Products** | 💡 **System Design Enthusiast** | 🧠 **Future Product Engineer**
+</div>
 
 ---
 
-### ⚡ About Me
+# 🚀 About Me
 
-I am a software developer focused on architecting **real-world, distributed, and scalable digital ecosystems**—shifting the focus from simple projects to high-performance systems. My ultimate goal is to engineer high-impact technology within top-tier product environments (FAANG-level).
+I'm a Computer Science student passionate about building software that solves real-world problems.
 
-- 🏗️ **Architecting Ecosystems:** Deeply invested in building production-grade backend infrastructures.
-- 🔥 **Current Focus:** Scaling **FOTHS**, a massive real-time platform with decoupled services, global user sync, and intelligent AI interaction.
-- 🧠 **Core Passions:** System Design (HLD/LLD), asynchronous architectures, and data structure optimizations.
+Instead of creating isolated projects, I enjoy designing products with scalability, maintainability, and user experience in mind.
 
----
+Currently exploring:
 
-### 🛠️ Tech Stack & Competencies
-
-<table border="0">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong>🧠 Languages & Core</strong><br />
-      <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong>⚙️ Backend & Architecture</strong><br />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express" alt="Express" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <strong>🎨 Frontend Frameworks</strong><br />
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td align="left" valign="top" width="50%">
-      <strong>🎯 System Engineering</strong><br />
-      • High & Low-Level System Design (HLD/LLD)<br />
-      • RESTful API Design & Decoupled Architecture<br />
-      • Database Normalization & Performance Indexing<br />
-      • Data Structures & Algorithms (DSA)
-    </td>
-  </tr>
-</table>
+- 🏗️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Development
+- ⚙️ System Design
+- 📦 Product Engineering
 
 ---
 
-### 🚀 Featured Systems
+# 🔥 Current Focus
 
-#### 🌐 [FOTHS Platform](https://github.com/FOTHS-Fire-of-The-Holy-Spirit) `In Progress`
-*A highly scalable, multi-service digital ecosystem optimized for global concurrent connectivity.*
-- Engineered low-latency, real-time communication protocols.
-- Built **Flame**, an autonomous AI assistant module integrated directly into the core engine pipeline.
-- Designed with a highly strict modular architecture pattern to guarantee independent service reliability and scaling.
+## 🌍 FOTHS
 
-#### 📅 Smart Calendar System
-*An intelligent asynchronous scheduling system featuring automated optimization.*
-- Implemented transactional conflict-detection matrices to handle highly clustered bookings.
-- Designed smart prioritization queues for time-sensitive events.
-- *Roadmap:* Incorporating behavioral feedback loops for automated agenda layout.
+Building a modular digital ecosystem with multiple interconnected services.
 
-#### 🧠 System Design Portfolio
-*A specialized, documentation-first repository detailing complex structural breakdowns.*
-- Includes comprehensive architecture diagrams mapped to microservice topologies.
-- Production-level breakdowns analyzing high-throughput traffic bottlenecks and caching layers.
+Current areas include:
+
+- 🤖 AI Assistant (Flame)
+- 💬 Real-time Communication
+- 📧 Internal Mail System
+- 🎓 Learning Platform
+- 🎵 Audio Streaming
+- 🛒 Digital Services
+- 🔐 Authentication & Security
 
 ---
 
-### 📊 Engineering Metrics
+# 💻 Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-0712&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Keerthana's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-0712&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=sql,postgres,mongodb"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+## Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,redis,kafka,kubernetes,aws"/>
 </p>
 
 ---
 
-### 📈 Operational Objectives
-- 🚀 Ship 2–3 complex production-level distributed systems to production.
-- ⚙️ Deep dive into advanced system primitives (Message Brokers, Distributed Caching, Sharding).
-- 🧠 Consistently practice and master high-level algorithmic problems.
+# 🚀 Featured Projects
 
-### 🤝 Let's Connect
-- **LinkedIn:** [linkedin.com/in/keerthana-salla](https://www.linkedin.com/in/keerthana-salla/)
-- **Interactive Portfolio:** [keerthana-salla-architron.vercel.app](https://keerthana-salla-architron.vercel.app/)
+## 🔥 FOTHS
 
-🌟 _“I don’t just build projects. I build systems that scale.”_
+A modular ecosystem designed around scalable services.
+
+- AI-powered assistant
+- Modular architecture
+- Authentication
+- Real-time communication
+- Learning platform
+- Built with scalability in mind
+
+---
+
+## 📚 GitHub From Scratch
+
+A beginner-friendly open-source guide helping developers learn Git & GitHub from scratch.
+
+---
+
+## 🧠 System Design
+
+Architecture notes, HLDs, LLDs, scalability concepts, and backend engineering resources.
+
+---
+
+## 💻 DSA Journey
+
+Solutions, notes, patterns, and explanations while mastering Data Structures & Algorithms.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keerthana-0712&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-0712&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-0712&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana-0712&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready applications
+- 🧠 Master Data Structures & Algorithms
+- 🏗️ Master System Design
+- 🤖 Build AI-powered products
+- 🌍 Contribute to Open Source
+- 💼 Join a top product-based company
+
+---
+
+# 🤝 Let's Connect
+
+💼 LinkedIn  
+https://linkedin.com/in/keerthana-salla
+
+🌐 Portfolio  
+https://keerthana-salla-architron.vercel.app/
+
+📧 Open to collaborating on meaningful software and open-source projects.
+
+---
+
+<div align="center">
+
+### ⭐ Building products today. Engineering systems for tomorrow.
+
+</div>
 --!>
